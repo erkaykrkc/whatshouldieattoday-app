@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td>First Process</td>
-     <td>Second Process</td>
-     <td>Third Process</td>
+    <td><center>First Process</td>
+     <td><center>Second Process</td>
+     <td><center>Third Process</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/50543193/136081369-a30facfa-e6fd-4f22-8701-c36205046b5d.png" alt="1" width="400" height="600"> </td>
-    <td><img src="https://user-images.githubusercontent.com/50543193/136081376-aa3d1105-be39-4af6-9a0d-bf87019152e4.png" alt="2" width="400" height="600"></td>
-    <td><img src="https://user-images.githubusercontent.com/50543193/136081378-75e31f5f-a112-4b34-9773-696afbb26590.png" alt="2" width="400" height="600"></td>
+    <td><img src="https://user-images.githubusercontent.com/50543193/136081369-a30facfa-e6fd-4f22-8701-c36205046b5d.png" alt="1" width="500" height="600"> </td>
+    <td><img src="https://user-images.githubusercontent.com/50543193/136081376-aa3d1105-be39-4af6-9a0d-bf87019152e4.png" alt="2" width="500" height="600"></td>
+    <td><img src="https://user-images.githubusercontent.com/50543193/136081378-75e31f5f-a112-4b34-9773-696afbb26590.png" alt="2" width="500" height="600"></td>
   </tr>
  </table>
 
